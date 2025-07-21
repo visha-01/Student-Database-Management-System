@@ -1,1 +1,3 @@
 # Student-Database-Management-System
+
+This repository contains a Student Database Management System designed to efficiently store, manage, and retrieve student information. Built using python and MySQL the system allows users to perform core operations such as adding new student records, updating existing data, deleting records, and searching for specific student details. It features a clean interface, input validation, and structured data handling to ensure accuracy and ease of use. This project is ideal for learning CRUD operations, database connectivity, and basic data management workflows in real-world applications.
